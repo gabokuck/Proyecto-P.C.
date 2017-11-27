@@ -1,0 +1,23 @@
+#encabezado{
+  height: 100px;
+  width: 1000px;
+  /*background: #e542f4;*/
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.imagen1{
+  width: 200px;
+}
+.imagen2{
+  width: 300px;
+
+}
+#titulo{
+  text-align: center;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+}
